@@ -55,7 +55,7 @@
     "@types/seedrandom": "^3.0.0",
     "docz": "^2.3.1",
     "eslint-config-xo-react": "^0.29.0",
-    "eslint-config-xo-typescript": "^0.57.0",
+    "eslint-config-xo-typescript": "^9.0.0",
     "husky": "^9.0.0",
     "microbundle": "^0.15.0",
     "react": "^19.0.0",
