@@ -31,7 +31,7 @@
     "types/index.d.ts"
   ],
   "dependencies": {
-    "d3-array": "^2.5.0",
+    "d3-array": "^3.0.0",
     "d3-cloud": "^1.2.5",
     "d3-dispatch": "^1.0.6",
     "d3-scale": "^3.2.1",
@@ -45,7 +45,7 @@
     "tippy.js": "^6.2.6"
   },
   "devDependencies": {
-    "@types/d3-array": "^2.0.0",
+    "@types/d3-array": "^3.0.0",
     "@types/d3-cloud": "^1.2.3",
     "@types/d3-scale": "^2.2.0",
     "@types/d3-scale-chromatic": "^1.5.0",
