@@ -57,7 +57,7 @@
     "eslint-config-xo-react": "^0.29.0",
     "eslint-config-xo-typescript": "^0.57.0",
     "husky": "^4.2.5",
-    "microbundle": "^0.12.3",
+    "microbundle": "^0.15.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "typescript": "^3.8.3",
